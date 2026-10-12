@@ -1,0 +1,11 @@
+﻿venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.env
+dataset/
+outputs/
+reports/
+report.txt
+*.pth
+*.model
